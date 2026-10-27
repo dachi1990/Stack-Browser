@@ -2,7 +2,9 @@
 
 A desktop browser that organizes web apps around the way you work.
 
-![Stack product onboarding: organizing web apps into spaces](assets/spaces.png)
+![Stack: We organize chaotic internet](assets/cover.png)
+
+[Visit Stack →](https://stackbrowser.com)
 
 ## Give your work a space
 
@@ -12,7 +14,7 @@ Stack brings websites and web apps into a workspace of cards, spaces and separat
 - **Spaces:** separate contexts for different projects and activities.
 - **Profiles:** distinct browsing identities within the workspace.
 
-![Stack product onboarding: a zoomed-out Space View](assets/space-view.png)
+![Stack's workspace: cards organized into flows](assets/workspace.png)
 
 ## Current work
 
@@ -22,4 +24,4 @@ Development is focused on a Chromium-based rebuild, carrying Stack's workspace d
 
 This repository presents the product and current direction. Application source is maintained privately.
 
-*The illustrations are from the existing Stack product's onboarding. They do not depict the current Chromium rebuild.*
+*The opening visual is from [Stack's official website](https://stackbrowser.com) and illustrates the existing product. The Chromium rebuild remains in development.*
